@@ -1,4 +1,4 @@
-# CSRF Attack Lab (SEED Labs)
+# CSRF Attack Lab 
 
 This project demonstrates Cross-Site Request Forgery (CSRF) vulnerabilities using the Elgg social networking platform as the target environment.
 
@@ -27,19 +27,3 @@ This project demonstrates Cross-Site Request Forgery (CSRF) vulnerabilities usin
 - Enabled built-in CSRF token checks in Elgg (`csrf.php`)
 - Verified that missing tokens caused CSRF failures
 - Demonstrated SameSite cookie enforcement and its impact on cross-site requests
-
-## 🖼️ Screenshots
-Add optional screenshots to demonstrate attack flow and prevention if needed.
-
-## 📁 Files
-- `csrf-attack-report.pdf` – Full documentation of attack steps, observations, and mitigation.
-
-## 📄 Author
-**Aparnaa Mahalaxmi Arulljothi**  
-Student ID: A20560995
-
----
-
-## 🔗 References
-- [SEED Labs - CSRF Attack](https://seedsecuritylabs.org/Labs_20.04/Web/Web_CSRF/)
-- [OWASP CSRF Overview](https://owasp.org/www-community/attacks/csrf)
